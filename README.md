@@ -129,7 +129,7 @@ Execute the program using runserver command.
 <td>Logic and Combinatorics</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td>19PH214</td>
 <td>Pysics For Quantum Computing</td>
 </tr>
